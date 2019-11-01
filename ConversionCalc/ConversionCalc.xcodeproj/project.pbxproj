@@ -14,7 +14,7 @@
 		603F274E236C820400E83D11 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 603F274C236C820400E83D11 /* LaunchScreen.storyboard */; };
 		603F2759236C820400E83D11 /* ConversionCalcTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 603F2758236C820400E83D11 /* ConversionCalcTests.swift */; };
 		603F2764236C820400E83D11 /* ConversionCalcUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 603F2763236C820400E83D11 /* ConversionCalcUITests.swift */; };
-		603F2772236C824A00E83D11 /* CalcViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 603F2771236C824A00E83D11 /* CalcViewController.swift */; };
+		603F2774236C966A00E83D11 /* CalcViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 603F2773236C966A00E83D11 /* CalcViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,7 +48,7 @@
 		603F275F236C820400E83D11 /* ConversionCalcUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ConversionCalcUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		603F2763236C820400E83D11 /* ConversionCalcUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConversionCalcUITests.swift; sourceTree = "<group>"; };
 		603F2765236C820400E83D11 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		603F2771236C824A00E83D11 /* CalcViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalcViewController.swift; sourceTree = "<group>"; };
+		603F2773236C966A00E83D11 /* CalcViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalcViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,7 +105,7 @@
 				603F274A236C820400E83D11 /* Assets.xcassets */,
 				603F274C236C820400E83D11 /* LaunchScreen.storyboard */,
 				603F274F236C820400E83D11 /* Info.plist */,
-				603F2771236C824A00E83D11 /* CalcViewController.swift */,
+				603F2773236C966A00E83D11 /* CalcViewController.swift */,
 			);
 			path = ConversionCalc;
 			sourceTree = "<group>";
@@ -260,7 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				603F2742236C820300E83D11 /* AppDelegate.swift in Sources */,
-				603F2772236C824A00E83D11 /* CalcViewController.swift in Sources */,
+				603F2774236C966A00E83D11 /* CalcViewController.swift in Sources */,
 				603F2744236C820300E83D11 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
